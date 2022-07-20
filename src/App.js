@@ -18,7 +18,6 @@ function App() {
           Learn React
         </a>
         <p>Shubham Sati</p>
-        <p>Priyanka Sati</p>
       </header>
     </div>
   );
